@@ -20,6 +20,7 @@
 <p align="center">
   <a href="https://wp-moo.com">Website</a> ·
   <a href="https://wp-moo.com/docs">Docs</a> ·
+  <a href="https://wp-moo.com/pricing">Pricing</a> ·
   <a href="https://wp-moo.com/roadmap">Roadmap</a> ·
   <a href="https://wp-moo.com/changelog">Changelog</a> ·
   <a href="https://wp-moo.com/waitlist">Join the waitlist</a>
@@ -28,7 +29,7 @@
 WP Moo checks your WordPress and WooCommerce sites from the outside, the way a visitor would. There's nothing to install, update or keep compatible. When something breaks, you see it in one clear place, in plain words.
 
 > [!NOTE]
-> WP Moo is in an invite-only beta. The beta is free and needs no payment details. [Join the waitlist](https://wp-moo.com/waitlist) and we'll email you when your invite is ready.
+> WP Moo is in an invite-only beta. The beta is free and needs no payment details, and organisations that join during the beta keep [Pro free for life](https://wp-moo.com/pricing). [Join the waitlist](https://wp-moo.com/waitlist) and we'll email you when your invite is ready.
 
 ## What it checks
 
@@ -50,8 +51,11 @@ Only what your site and its DNS show the world. Each check can be switched off p
 
 - **No plugin.** Nothing runs on your site, so there's nothing to break on the next update.
 - **Confirmed before it counts.** A page that looks down is checked again from a second location, so one hiccup isn't a false alarm.
-- **Grouped by hosting server.** When a server goes down you see one outage for all its sites, not a list of offline ones.
+- **One email when it breaks, one when it's over.** Urgent problems reach you right away; smaller ones go in an hourly, daily or weekly digest. Every alert waits 90 seconds, so a short blip sends nothing. [Alerts](https://wp-moo.com/docs/alerts) explains who gets what, and when.
+- **Incidents, not noise.** Everything that goes wrong on a site becomes an [incident](https://wp-moo.com/docs/incidents) with its whole story in one place: what it means, what to do, what happened and who was told.
+- **Grouped by hosting server.** When a server goes down you see one outage and get one email for all its sites, not a list of offline ones.
 - **A priority per site.** A busy webshop is checked every minute, a small brochure site less often.
+- **Maintenance mode.** Tell WP Moo you're working on a site, so an update doesn't send alerts or lower its uptime. See [Maintenance](https://wp-moo.com/docs/maintenance).
 - **Honest about firewalls.** If a firewall blocks the check, WP Moo shows "Checker blocked" instead of a false alarm.
 
 ## Who it's for
@@ -62,7 +66,7 @@ Only what your site and its DNS show the world. Each check can be switched off p
 
 ## What's next
 
-Email alerts are coming soon: one when a problem starts, one when it's over, and a daily digest for smaller things. After that come Slack and Microsoft Teams alerts, IPv6 and Broken links checks, and team accounts. The [roadmap](https://wp-moo.com/roadmap) has the full picture.
+Next up are Slack and Microsoft Teams alerts, a page to share with your developer and alerts in plain words for clients, bulk actions and planned maintenance for large fleets, and IPv6 and Broken links checks. The [roadmap](https://wp-moo.com/roadmap) has the full picture.
 
 ## Seeing WPMooBot in your logs?
 
