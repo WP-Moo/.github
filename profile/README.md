@@ -56,7 +56,11 @@ Only what your site and its DNS show the world. Each check can be switched off p
 - **Grouped by hosting server.** When a server goes down you see one outage and get one email for all its sites, not a list of offline ones.
 - **A priority per site.** A busy webshop is checked every minute, a small brochure site less often.
 - **Maintenance mode.** Tell WP Moo you're working on a site, so an update doesn't send alerts or lower its uptime. See [Maintenance](https://wp-moo.com/docs/maintenance).
-- **Honest about firewalls.** If a firewall blocks the check, WP Moo shows "Checker blocked" instead of a false alarm.
+- **Honest about firewalls.** If a firewall blocks the check, WP Moo shows "Checker blocked" instead of a false alarm. See [Blocked](https://wp-moo.com/docs/blocked).
+- **Honest about our side too.** When something is wrong on our end, every screen says so, so you don't go looking for a problem on your site.
+- **Your team, your emails.** Invite colleagues with a role. Everyone chooses which emails they get, also per site.
+- **Tell us when we're wrong.** Every alert asks whether it was right, and a no comes straight to us.
+- **Safe logins.** Log in with Google or Microsoft, or with a password and two-step login.
 
 ## Who it's for
 
